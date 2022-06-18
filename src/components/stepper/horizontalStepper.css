@@ -1,0 +1,37 @@
+.MuiSvgIcon-root {
+    color: white !important;
+}
+
+.MuiStepIcon-root.Mui-completed, .MuiStepIcon-root.Mui-active {
+    color: #5a4ad1 !important;
+}
+
+.MuiStepIcon-root.Mui-completed .MuiStepIcon-text, .MuiStepIcon-root.Mui-active .MuiStepIcon-text {
+    fill: #f4f6f9 !important;
+}
+
+.MuiStepIcon-text {
+    fill: #9ba0ab !important;
+}
+
+.MuiStepper-root {
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.btn {
+    margin-top: 104% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 106% !important;
+    color: #f4f6f9 !important;
+    background-color: #5a4ad1 !important;
+    text-transform: none !important;
+    font-size: 12px !important;
+    padding: 3% 0 !important;
+}
+
+.lnk {
+    text-decoration: none;
+}

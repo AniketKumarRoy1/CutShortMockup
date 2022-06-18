@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    padding: 3% 0 2%;
+    margin: 0 auto;
+    width: 9%
+}
+
+.horizontalStepper{
+    max-width: 20%;
+    margin: 0 auto;
+    padding-bottom: 11%;
+}
+
+.title{
+    margin-left: 2.5%;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.img1{
+    max-height: 65px;
+    align-self: center;
+}

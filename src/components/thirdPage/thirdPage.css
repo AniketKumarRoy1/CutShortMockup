@@ -1,0 +1,58 @@
+.thirdPage {
+    margin-top: -33%;
+    padding-bottom: 15%;
+}
+  
+.head3 {
+    font-weight: bolder;
+    font-size: 22px;
+    margin-bottom: 1%;
+}
+  
+.subHead3 {
+    font-weight: lighter;
+    font-size: 12px;
+    padding-bottom: 1%;
+}
+
+.cards{
+    display: flex;
+    margin-left: 40%;
+}
+
+.card{
+    max-width: 15%;
+    margin-left: 2%;
+    text-align: left !important;
+}
+
+.img3{
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.img4{
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+}
+
+.title3{
+    font-weight: bold;
+    color: #40434a;
+}
+
+.text3{
+    color: #40434a;
+}
+
+.MuiCardContent-root{
+    padding-top: 5% !important;
+    padding-bottom: 10% !important;
+}
+
+.css-46bh2p-MuiCardContent-root {
+    padding-top: 8% !important;
+}

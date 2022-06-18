@@ -1,0 +1,68 @@
+.secondPage {
+    margin-top: -33%;
+    padding-bottom: 15%;
+}
+  
+.head2 {
+    font-weight: bolder;
+    font-size: 22px;
+    margin-bottom: 1%;
+}
+  
+.subHead2 {
+    font-weight: lighter;
+    font-size: 12px;
+    padding-bottom: 1%;
+}
+  
+.form2 {
+    width: 20%;
+    margin: auto;
+}
+  
+.label2 {
+    font-size: 10px;
+    font-weight: bold;
+    color: #40434a;
+}
+
+.input2 {
+    width: 100%;
+    padding: 2%;
+    border-radius: 5px;
+    border: 0.1px solid #9BA0AB;
+}
+
+.inputTitle2 {
+    display: flex;
+    position: relative;
+    text-align: left;
+    padding-bottom: 1%;
+    padding-top: 5%;
+}
+
+.optional{
+    color: #9BA0AB;
+    margin-left: 1%;
+}
+
+.input-box {
+    width: 102%;
+    display: flex;
+    color: #9BA0AB;
+    align-items: center;
+    border: 1px solid #a0a0a0;
+    border-radius: 5px;
+    padding-left: 0.5rem;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+
+.prefix{
+    width: 45%
+}
+
+.input2.pre{
+    border: none;
+}
+  
